@@ -1,0 +1,27 @@
+.headerContainer {
+  padding-left: 10px;
+
+  margin: 1rem;
+  align-items: center;
+  background-color: rgb(1, 1, 12);
+}
+
+#navbarNav a {
+  color: #eaeaea;
+}
+#navbarNav a:hover {
+  color: #ffc72e;
+}
+
+#navbarNavRigth a {
+  color: #0a0909;
+}
+#navbarNavRigth a:hover {
+    color: #810107;
+  }
+#navbarNavRigth {
+  margin-right: 1rem;
+  padding: 10px;
+  background-color: #ffdc82;
+  border-radius: 15px;
+}
