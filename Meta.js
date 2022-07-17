@@ -8,6 +8,7 @@ export default function Meta({ title, keywords, desc }) {
       <meta charSet="utf-8" />
       <meta name="description" content={desc} />
       <meta name="keyword" content={keywords} />
+      
     </Head>
   );
 }

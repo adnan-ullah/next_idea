@@ -6,5 +6,10 @@ const nextConfig = {
 
 module.exports = {
   nextConfig,
-  webpack5:true
+  webpack5:true,
+  images: {
+    loader: 'akamai',
+    path: '',
+    domains: ["fakestoreapi.com"],
+  },
 }
